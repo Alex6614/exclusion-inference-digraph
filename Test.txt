@@ -1,0 +1,22 @@
+ convention | agreements | ForwardEntailment
+ conventions | agreements | ForwardEntailment
+ birdwatchers | watchers | ForwardEntailment
+ non-governmental | governmental | ForwardEntailment
+  accepted | acceptance | ReverseEntailment
+ intent | intention | ReverseEntailment
+ fulfils | fulfills | ReverseEntailment
+ prohibiting | prohibition | ReverseEntailment
+  the committee 's recommendations | the recommendations of the commission | Equivalence
+ the committee 's recommendation | the recommendations of the commission | Equivalence
+ purposes of the present agreement , | the purposes of this agreement , | Equivalence
+ purposes of the present agreement , | purposes of this agreement , | Equivalence
+ the outcomes of the world summit | the results of the world summit | Equivalence
+  photography | photo | Equivalence
+ bahamian | bahamas | Equivalence
+ opportunity | chance | Equivalence
+ opportunities | chance | Equivalence
+ opposes | oppose | Equivalence
+ concerning | regarding | Equivalence
+ a | b | ForwardEntailment
+ b | c | ForwardEntailment
+ c | a | ForwardEntailment
